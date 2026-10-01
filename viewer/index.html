@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Apresentações locais</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <header><div><span class="eyebrow">PREVIEW LOCAL</span><h1 id="title">Apresentação</h1></div><span id="count">0 slides</span></header>
+  <aside aria-label="Sequência de slides"><nav id="thumbnails" aria-label="Selecionar slide"></nav></aside>
+  <main>
+    <p id="status" role="status" aria-live="polite">Carregando apresentação…</p>
+    <div class="canvas"><img id="slide" alt="" hidden></div>
+    <div class="controls"><button id="previous" aria-label="Slide anterior" disabled>← Anterior</button><span id="position" aria-live="polite">—</span><button id="next" aria-label="Próximo slide" disabled>Próximo →</button></div>
+    <p class="hint">Use as setas do teclado para navegar</p>
+  </main>
+</body>
+</html>
