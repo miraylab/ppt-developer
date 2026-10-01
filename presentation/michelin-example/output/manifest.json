@@ -1,0 +1,13 @@
+{
+  "status": "ready",
+  "title": "Michelin • Exemplo local",
+  "version": 1790335773940,
+  "outputName": "presentation.pptx",
+  "renderer": "powerpoint",
+  "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ]
+}

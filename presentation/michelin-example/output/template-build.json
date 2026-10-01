@@ -1,0 +1,144 @@
+{
+  "template": "template_michelin.pptx",
+  "sha256": "cd52e6612e42ce2b7a33fa1fb213581701ccb7cb425b8304610502117e8e2d29",
+  "slides": [
+    {
+      "source": {
+        "slideId": 256
+      },
+      "replacements": [
+        {
+          "target": {
+            "shapeId": 1227
+          },
+          "text": "DATA BOARD"
+        },
+        {
+          "target": {
+            "shapeId": 2
+          },
+          "text": "Exemplo local"
+        }
+      ],
+      "additions": []
+    },
+    {
+      "source": {
+        "slideId": 2147483619
+      },
+      "replacements": [
+        {
+          "target": {
+            "placeholderType": 1
+          },
+          "text": "Prioridades da equipe"
+        }
+      ],
+      "additions": [
+        {
+          "x": 0.7,
+          "y": 1.35,
+          "w": 11.9,
+          "h": 1,
+          "fontFace": "Open Sans",
+          "fontSize": 22,
+          "color": "172B42",
+          "bold": false,
+          "text": "Projeto piloto para organizar o acompanhamento das entregas."
+        },
+        {
+          "x": 0.7,
+          "y": 3,
+          "w": 5.4,
+          "h": 0.6,
+          "fontFace": "Open Sans ExtraBold",
+          "fontSize": 24,
+          "color": "172B42",
+          "bold": true,
+          "text": "Planejamento"
+        },
+        {
+          "x": 0.7,
+          "y": 3.9,
+          "w": 5.4,
+          "h": 1.8,
+          "fontFace": "Open Sans",
+          "fontSize": 22,
+          "color": "172B42",
+          "bold": false,
+          "text": "Cada entrega terá um responsável e uma data acordada com a equipe."
+        },
+        {
+          "x": 7,
+          "y": 3,
+          "w": 5.4,
+          "h": 0.6,
+          "fontFace": "Open Sans ExtraBold",
+          "fontSize": 24,
+          "color": "172B42",
+          "bold": true,
+          "text": "Acompanhamento"
+        },
+        {
+          "x": 7,
+          "y": 3.9,
+          "w": 5.4,
+          "h": 1.8,
+          "fontFace": "Open Sans",
+          "fontSize": 22,
+          "color": "172B42",
+          "bold": false,
+          "text": "Uma reunião semanal permitirá revisar pendências e ajustar o plano."
+        }
+      ]
+    },
+    {
+      "source": {
+        "layout": {
+          "master": "Slides Internos (Conteúdo)",
+          "name": "Custom Layout 1 1 1 2 1 1 1 1 1 2"
+        }
+      },
+      "replacements": [
+        {
+          "target": {
+            "placeholderType": 1
+          },
+          "text": "Rotina de acompanhamento"
+        }
+      ],
+      "additions": [
+        {
+          "x": 0.9,
+          "y": 1.85,
+          "w": 11.5,
+          "h": 4.2,
+          "fontFace": "Open Sans",
+          "fontSize": 22,
+          "color": "172B42",
+          "text": "A equipe revisará as entregas em andamento a cada semana.\n\nAs decisões serão registradas com o responsável e o prazo combinado."
+        }
+      ]
+    },
+    {
+      "source": {
+        "slideId": 320
+      },
+      "replacements": [
+        {
+          "target": {
+            "placeholderType": 1
+          },
+          "text": "Muito Obrigado!"
+        },
+        {
+          "target": {
+            "placeholderType": 4
+          },
+          "text": "DATA BOARD\nExemplo local"
+        }
+      ],
+      "additions": []
+    }
+  ]
+}

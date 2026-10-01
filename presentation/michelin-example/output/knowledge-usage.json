@@ -1,0 +1,36 @@
+{
+  "presentation": "michelin-example",
+  "brand": "michelin",
+  "style": "michelin-dados",
+  "version": 1790335773940,
+  "usages": [
+    {
+      "slide": 1,
+      "style": "michelin-dados",
+      "pattern": "capa",
+      "version": 1,
+      "status": "validated"
+    },
+    {
+      "slide": 2,
+      "style": "michelin-dados",
+      "pattern": "conteudo",
+      "version": 1,
+      "status": "validated"
+    },
+    {
+      "slide": 3,
+      "style": "michelin-dados",
+      "pattern": "layout-conteudo",
+      "version": 1,
+      "status": "validated"
+    },
+    {
+      "slide": 4,
+      "style": "michelin-dados",
+      "pattern": "encerramento",
+      "version": 1,
+      "status": "validated"
+    }
+  ]
+}
