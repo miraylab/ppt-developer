@@ -1,0 +1,190 @@
+{
+  "id": "michelin-dados",
+  "title": "Michelin: apresentações de dados",
+  "description": "Estruturas nativas do template Michelin recebido, com objetos editáveis e layouts preservados.",
+  "patterns": [
+    {
+      "id": "capa",
+      "title": "Capa fotográfica Michelin",
+      "version": 1,
+      "status": "validated",
+      "description": "Duplica a capa com foto e logos e preenche título e identificação.",
+      "tags": [
+        "michelin",
+        "capa",
+        "foto"
+      ],
+      "examples": [
+        {
+          "presentation": "michelin-example",
+          "slide": 1
+        }
+      ]
+    },
+    {
+      "id": "conteudo",
+      "title": "Conteúdo com duas prioridades",
+      "version": 1,
+      "status": "validated",
+      "description": "Reutiliza o slide de conteúdo e adiciona duas colunas de texto nativo.",
+      "tags": [
+        "michelin",
+        "conteudo",
+        "duas colunas",
+        "prioridades"
+      ],
+      "examples": [
+        {
+          "presentation": "michelin-example",
+          "slide": 2
+        }
+      ]
+    },
+    {
+      "id": "layout-conteudo",
+      "title": "Conteúdo criado pelo layout nativo",
+      "version": 1,
+      "status": "validated",
+      "description": "Cria um slide diretamente de um layout do mestre, sem duplicar um slide pronto.",
+      "tags": [
+        "michelin",
+        "mestre",
+        "layout",
+        "conteudo"
+      ],
+      "examples": [
+        {
+          "presentation": "michelin-example",
+          "slide": 3
+        }
+      ]
+    },
+    {
+      "id": "encerramento",
+      "title": "Encerramento com foto de caminhão",
+      "version": 1,
+      "status": "validated",
+      "description": "Reutiliza o encerramento original com título e identificação editáveis.",
+      "tags": [
+        "michelin",
+        "encerramento",
+        "foto"
+      ],
+      "examples": [
+        {
+          "presentation": "michelin-example",
+          "slide": 4
+        }
+      ]
+    },
+    {
+      "id": "convergencia",
+      "title": "Atuação independente e alinhamento entre áreas",
+      "version": 7,
+      "status": "draft",
+      "description": "Comparar os ganhos e riscos da atuação independente com o resultado da colaboração entre duas equipes.",
+      "tags": [
+        "colaboração",
+        "comparação",
+        "autonomia",
+        "governança"
+      ],
+      "examples": [
+        {
+          "presentation": "internalizacao-power-bi",
+          "slide": 1
+        }
+      ]
+    },
+    {
+      "id": "governanca-iceberg",
+      "title": "Governança e iceberg de ativos",
+      "version": 5,
+      "status": "validated",
+      "description": "Comparar indicadores governados com camadas ocultas de ativos.",
+      "tags": [
+        "iceberg",
+        "governança",
+        "indicadores"
+      ],
+      "examples": [
+        {
+          "presentation": "internalizacao-power-bi",
+          "slide": 2
+        }
+      ]
+    },
+    {
+      "id": "riscos-hexagonais",
+      "title": "Mapa hexagonal de riscos",
+      "version": 5,
+      "status": "validated",
+      "description": "Organizar seis dimensões ao redor de um risco central.",
+      "tags": [
+        "risco",
+        "hexágono",
+        "impactos"
+      ],
+      "examples": [
+        {
+          "presentation": "internalizacao-power-bi",
+          "slide": 3
+        }
+      ]
+    },
+    {
+      "id": "jornada-prazo",
+      "title": "Jornada com prazo e restrições",
+      "version": 6,
+      "status": "draft",
+      "description": "Mostrar quatro etapas, três restrições e um prazo em destaque.",
+      "tags": [
+        "jornada",
+        "prazo",
+        "urgência"
+      ],
+      "examples": [
+        {
+          "presentation": "internalizacao-power-bi",
+          "slide": 4
+        }
+      ]
+    },
+    {
+      "id": "comparacao-cenarios",
+      "title": "Comparação de três cenários",
+      "version": 5,
+      "status": "draft",
+      "description": "Comparar ações e consequências de três alternativas.",
+      "tags": [
+        "cenários",
+        "comparação",
+        "decisão"
+      ],
+      "examples": [
+        {
+          "presentation": "internalizacao-power-bi",
+          "slide": 5
+        }
+      ]
+    },
+    {
+      "id": "pilares-apoio",
+      "title": "Três pilares de apoio",
+      "version": 4,
+      "status": "validated",
+      "description": "Apresentar três compromissos e encerrar com os resultados esperados.",
+      "tags": [
+        "pilares",
+        "apoio",
+        "encerramento"
+      ],
+      "examples": [
+        {
+          "presentation": "internalizacao-power-bi",
+          "slide": 6
+        }
+      ]
+    }
+  ]
+}
