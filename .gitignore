@@ -1,0 +1,8 @@
+node_modules/
+presentations/*/output/
+presentations/*/revisions/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
+.env
